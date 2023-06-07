@@ -139,6 +139,9 @@ body {
                     <div class="text-tips"> 
                         请使用您的帐号密码进行登录
                     </div>      
+                    <div class="text-tips"> 
+                        default: admin 123456
+                    </div> 
                   </div>
 
                 <div class="panel-body" style="padding:20px 30px 0 30px;">
